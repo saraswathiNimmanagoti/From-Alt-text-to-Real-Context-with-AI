@@ -1,4 +1,4 @@
-# INFOSYS Image Analyzer
+# Image Analyzer
 
 A powerful Flask-based web application that leverages AI to analyze images, providing features like alt text generation, SEO descriptions, social media content generation, medical image analysis, and advanced color analysis.
 
@@ -94,7 +94,7 @@ A powerful Flask-based web application that leverages AI to analyze images, prov
    cp example.env .env
    
    # Edit .env file with your API keys
-   OPENAI_API_KEY=your-api-key-here
+   GEMINI_API_KEY=your-api-key-here
    ```
 
 4. **Initialize NLTK Data**
